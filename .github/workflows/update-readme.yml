@@ -1,0 +1,50 @@
+name: Update Dynamic README Sections
+
+on:
+  schedule:
+    - cron: "15 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+            node-version: 20
+            cache: npm
+
+      - name: Install deps
+        run: npm install --no-audit --no-fund
+
+      - name: Update README sections
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_PROFILE_USERNAME: Over1185
+          RECENT_REPOS_LIMIT: 5
+        run: npm run update:readme
+
+      - name: Commit & Push (if changed)
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md README.es.md
+            git commit -m "chore: auto-update recent repos and timestamp [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi

@@ -1,0 +1,13 @@
+{
+    "name": "profile-automation",
+    "private": true,
+    "version": "1.0.0",
+    "description": "Automation scripts for updating the GitHub profile README.",
+    "license": "MIT",
+    "scripts": {
+        "update:readme": "node scripts/update-readme.js"
+    },
+    "dependencies": {
+        "@octokit/core": "^5.0.0"
+    }
+}
