@@ -5,7 +5,7 @@ const path = require('path');
 const { Octokit } = require('@octokit/core');
 
 const USERNAME = process.env.GITHUB_PROFILE_USERNAME || 'Over1185';
-const TOKEN = process.env.GITHUB_TOKEN; // Provided automatically in Actions
+const TOKEN = process.env.GITHUB_TOKEN;
 const REPOS_LIMIT = parseInt(process.env.RECENT_REPOS_LIMIT || '5', 10);
 
 const octokit = new Octokit({

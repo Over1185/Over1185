@@ -24,7 +24,7 @@
 Soy estudiante universitario y desarrollador independiente. Me gusta:
 - Crear interfaces web modernas con React, Next.js y Astro
 - Diseñar lógica backend y APIs en Python
-- Explorar Rust para rendimiento y Java/Kotlin según ecosistema
+- Explorar Rust/Zig para rendimiento y Java/Kotlin según ecosistema
 - Hacer plugins para Minecraft (Java) y apps móviles con React Native / Expo y Kotlin
 - Investigar sobre IA, prompting y noticias tecnológicas
 - Administración básica de sistemas (Linux, scripting, despliegues, servicios)
@@ -44,7 +44,7 @@ React • Next.js • Astro • HTML5 • CSS3 • Diseño Responsivo
 Kotlin (Android) • React Native / Expo
 
 **Backend / Core**  
-Python • Rust (aprendizaje) • Java (plugins Minecraft) • Bash scripting
+Python • Rust • Zig (aprendizaje) • Java (plugins Minecraft) • Bash scripting
 
 **Bases de Datos**  
 PostgreSQL • SQLite • SQL

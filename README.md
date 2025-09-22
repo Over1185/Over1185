@@ -29,7 +29,7 @@ Secondary language version: README.es.md
 I am a university student and independent developer who enjoys:
 - Building modern web interfaces with React, Next.js & Astro
 - Designing APIs and backend logic in Python
-- Experimenting with Rust for performance and Java/Kotlin for specific ecosystems
+- Experimenting with Rust/Zig for performance and Java/Kotlin for specific ecosystems
 - Creating Minecraft plugins (Java) + mobile apps with React Native / Expo & Kotlin
 - Learning about AI prompting, tooling trends & broader tech news
 - Systems administration basics (Linux servers, scripting, service setup, deployments)
@@ -49,7 +49,7 @@ React • Next.js • Astro • HTML5 • CSS3 • Responsive Design
 Kotlin (Android) • React Native / Expo
 
 **Backend / Core**  
-Python • Rust (performance exploration) • Java (Minecraft plugins) • Bash scripting
+Python • Rust • Zig (performance exploration) • Java (Minecraft plugins) • Bash scripting
 
 **Databases**  
 PostgreSQL • SQLite • SQL fundamentals
