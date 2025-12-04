@@ -75,15 +75,15 @@ Prompt Engineering (IA) • Patrones de arquitectura • Buenas prácticas de c�
 (Esta sección se actualiza diariamente con GitHub Actions.)
 
 <!--ULTIMOS_REPOS:INICIO-->
+- [Tarea-DB](https://github.com/Over1185/Tarea-DB) ⭐ 1 (actualizado 2025-12-03)
 - [ping-web](https://github.com/Over1185/ping-web) ⭐ 0 (actualizado 2025-10-15)
 - [chess-frontend](https://github.com/Over1185/chess-frontend) ⭐ 0 (actualizado 2025-08-14)
 - [Conversor-Web](https://github.com/Over1185/Conversor-Web) — Una aplicación web moderna y responsiva para convertir entre diferentes unidades de almacenamiento de datos. Desarrollada con Astro, TypeScript y Tailwind CSS. ⭐ 0 (actualizado 2025-09-19)
 - [Ejercicios-React](https://github.com/Over1185/Ejercicios-React) ⭐ 0 (actualizado 2025-06-08)
-- [Marvel_browser-Firebase_Integration](https://github.com/Over1185/Marvel_browser-Firebase_Integration) ⭐ 0 (actualizado 2025-05-29)
 <!--ULTIMOS_REPOS:FIN-->
 
 <!--ULTIMA_ACTUALIZACION:INICIO-->
-Última actualización: 2025-12-03T13:04:08.823Z
+Última actualización: 2025-12-04T02:18:32.089Z
 <!--ULTIMA_ACTUALIZACION:FIN-->
 
 ---
