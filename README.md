@@ -80,7 +80,7 @@ Prompt Engineering (AI) • Clean Code mindset • Architecture exploration
 (This section updates daily via GitHub Actions.)
 
 <!--RECENT_REPOS:START-->
-- [ticket-app](https://github.com/Over1185/ticket-app) ⭐ 0 (updated 2025-12-16)
+- [ticket-app](https://github.com/Over1185/ticket-app) ⭐ 0 (updated 2025-12-18)
 - [Conversor-Web](https://github.com/Over1185/Conversor-Web) — Una aplicación web moderna y responsiva para convertir entre diferentes unidades de almacenamiento de datos. Desarrollada con Astro, TypeScript y Tailwind CSS. ⭐ 0 (updated 2025-12-05)
 - [Tarea-DB](https://github.com/Over1185/Tarea-DB) ⭐ 1 (updated 2025-12-03)
 - [ping-web](https://github.com/Over1185/ping-web) ⭐ 0 (updated 2025-10-15)
@@ -88,7 +88,7 @@ Prompt Engineering (AI) • Clean Code mindset • Architecture exploration
 <!--RECENT_REPOS:END-->
 
 <!--LAST_UPDATE:START-->
-Last updated: 2025-12-18T02:18:53.456Z
+Last updated: 2025-12-18T13:03:29.864Z
 <!--LAST_UPDATE:END-->
 
 ---
