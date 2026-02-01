@@ -80,15 +80,15 @@ Prompt Engineering (AI) • Clean Code mindset • Architecture exploration
 (This section updates daily via GitHub Actions.)
 
 <!--RECENT_REPOS:START-->
+- [acar-labs-frontend](https://github.com/Over1185/acar-labs-frontend) ⭐ 1 (updated 2026-01-31)
 - [ticket-app](https://github.com/Over1185/ticket-app) ⭐ 0 (updated 2025-12-18)
 - [Conversor-Web](https://github.com/Over1185/Conversor-Web) — Una aplicación web moderna y responsiva para convertir entre diferentes unidades de almacenamiento de datos. Desarrollada con Astro, TypeScript y Tailwind CSS. ⭐ 0 (updated 2025-12-05)
 - [Tarea-DB](https://github.com/Over1185/Tarea-DB) ⭐ 1 (updated 2025-12-03)
 - [ping-web](https://github.com/Over1185/ping-web) ⭐ 0 (updated 2025-10-15)
-- [chess-frontend](https://github.com/Over1185/chess-frontend) ⭐ 0 (updated 2025-08-14)
 <!--RECENT_REPOS:END-->
 
 <!--LAST_UPDATE:START-->
-Last updated: 2026-01-31T13:09:13.319Z
+Last updated: 2026-02-01T03:27:30.601Z
 <!--LAST_UPDATE:END-->
 
 ---
