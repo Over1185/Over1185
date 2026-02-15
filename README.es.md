@@ -83,7 +83,7 @@ Prompt Engineering (IA) • Patrones de arquitectura • Buenas prácticas de c�
 <!--ULTIMOS_REPOS:FIN-->
 
 <!--ULTIMA_ACTUALIZACION:INICIO-->
-Última actualización: 2026-02-15T03:20:19.700Z
+Última actualización: 2026-02-15T13:13:05.272Z
 <!--ULTIMA_ACTUALIZACION:FIN-->
 
 ---
